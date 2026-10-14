@@ -10,6 +10,8 @@ public class StudentProfile {
         System.out.println("Name: Sivagami");
         System.out.println("Student ID: S12345");
         System.out.println("Programme: Bachelor of Computer Science");
+        System.out.println("Semester: 1");
+        System.out.println("Fav Programming Lang : Java");
 
     }
 
